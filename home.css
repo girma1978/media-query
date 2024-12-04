@@ -362,6 +362,8 @@ div h3 {
         margin: 10px 0;
     }
 
+
+
     #welcome {
         padding: 30px 15px;
     }
@@ -378,18 +380,6 @@ div h3 {
 
 /* Phone View (max-width: 480px) */
 @media screen and (max-width: 480px) {
-    header {
-        font-size: 1em;
-        padding: 15px;
-    }
-
-    nav ul {
-        flex-direction: column;
-    }
-
-    nav ul li {
-        margin: 10px 0;
-    }
 
     #welcome {
         padding: 20px 10px;
